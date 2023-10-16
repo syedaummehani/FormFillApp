@@ -8,7 +8,10 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br/>
 
     <label for="name"><b>Age</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required><br/>
+    <input type="number" placeholder="Enter Age" name="age" id="age" required><br/>
+
+    <label for="name"><b>Gender</b></label>
+    <input type="text" placeholder="Enter Gender" name="gender" id="gender" required><br/>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required><br/>
