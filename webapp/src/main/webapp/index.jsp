@@ -45,4 +45,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+
+  <b1>Thank you! HAppy learning </b1>
 </form>
