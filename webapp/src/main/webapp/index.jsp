@@ -25,6 +25,9 @@
     <label for="name"><b>Spouse Name</b></label>
     <input type="text" placeholder="Enter Spouse Name" name="spouse_name" id="spouse_name" required><br/>
 
+    <label for="name"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter brother Name" name="brother_name" id="brother_name" required><br/>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required><br/>
 
